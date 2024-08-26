@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+meu nome é giullia jesus.
+estou estudando alura,
+estou me desenvolvendo na linguagem javascript e 
+ultilizo esse espaço para o desenvolvimento e criaçao de projetos. 
 <!--
 **giulliajesus/giulliajesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
